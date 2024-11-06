@@ -1,0 +1,47 @@
+{
+	"ver": 1,
+	"se": {
+		"25": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/pon.wav"
+		},
+		"26": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/pon.wav"
+		},
+		"27": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/kan.wav"
+		},
+		"28": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/kan.wav"
+		},
+		"29": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/chii.wav"
+		},
+		"30": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/chii.wav"
+		},
+		"31": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/riichi.wav"
+		},
+		"32": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/riichi.wav"
+		},
+		"33": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/ron.wav"
+		},
+		"34": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/ron.wav"
+		},
+		"35": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/NishikigiChisato/tsumo.wav"
+		},
+		"36": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/InoueTakina/tsumo.wav"
+		},
+		"37": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/ron.mp3"
+		},
+		"39": {
+			"url": "https://raw.githubusercontent.com/ItsTheFire/itf-tenhou-stuff/master/riichi.mp3"
+		}
+	}
+}
